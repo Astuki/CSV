@@ -1,0 +1,55 @@
+,,,,,
+Nom du poste,Type de poste,Utilisateur,Carte graphique,Date de mise en service,Nb d'années de service
+PPB-ADM-001,PC Portable,a.turcotte,N/A,14/03/2018,6.7
+PPB-ADM-002,PC Portable,p.marcoux,N/A,14/03/2018,6.7
+PPB-ADM-003,PC Portable,n.roux,N/A,14/03/2018,6.7
+PPB-ADM-004,PC Portable,o.couturier,N/A,14/03/2018,6.7
+PPB-ADM-005,PC Portable,g.favreau,N/A,14/03/2018,6.7
+PPB-ADM-006,PC Portable,d.fluet,N/A,14/03/2018,6.7
+PFX-SIT-001,PC Fixe,b.banon,N/A,17/02/2019,5.8
+PFX-SIT-002,PC Fixe,Vous,N/A,24/11/2022,2
+PPB-TST-001,PC Portable,g.langelier,N/A,12/01/2022,2.9
+PPB-TST-002,PC Portable,d.descoteaux,N/A,12/01/2022,2.9
+PFX-TST-001,PC Fixe,c.caron,Nvidia 4070,28/10/2019,5.1
+PPB-TST-003,PC Portable,c.desaulnier,N/A,12/01/2022,2.9
+PPB-TST-004,PC Portable,v.jacob,N/A,24/04/2023,1.6
+SPA-TST-001,Smartphone Android,i.herve,N/A,24/04/2023,1.6
+SPI-TST-001,Smarphone Iphone,rd.ruiz,N/A,24/04/2023,1.6
+PFX-SND-001,PC Fixe,e.dupy,Nvidia 4070,12/01/2022,2.9
+PFX-SND-002,PC Fixe,m.anoux,Nvidia 4070,12/01/2022,2.9
+PFX-SND-003,PC Fixe,f.gaulin,Nvidia 4070,12/01/2022,2.9
+PPB-SND-001,PC Portable,v.gougeon,N/A,12/01/2022,2.9
+PPB-SND-002,PC Portable,d.ramos,N/A,24/04/2023,1.6
+PPB-GPH-001,PC Portable,m.allard,N/A,25/03/2020,4.7
+PPB-GPH-002,PC Portable,m.lazure,N/A,25/03/2020,4.7
+PCX-GPH-001,PC Fixe,f.lang,Nvidia 4070,25/03/2020,4.7
+PCX-GPH-002,PC Fixe,f.paquette,Nvidia 4070,25/03/2020,4.7
+PCX-GPH-003,PC Fixe,c.seguin,Nvidia 4070,25/03/2020,4.7
+PPB-GPH-004,PC Portable,j.daigneault,N/A,12/01/2022,2.9
+PPB-GPH-005,PC Portable,l.laurent,N/A,24/04/2023,1.6
+PPB-GPH-006,PC Portable,a.cailot,N/A,12/01/2022,2.9
+PPB-GPH-007,PC Portable,b.schneider,N/A,24/04/2023,1.6
+PFX-DEV-001,PC Fixe,a.fournier,Nvidia 4070,28/10/2019,5.1
+PFX-DEV-002,PC Fixe,m.monjeau,Nvidia 4070,28/10/2019,5.1
+PFX-DEV-003,PC Fixe,j.champagne,Nvidia 4070,08/01/2019,5.9
+PFX-DEV-004,PC Fixe,j.baron,Nvidia 4070,08/01/2019,5.9
+PFX-DEV-005,PC Fixe,pp.buisson,Nvidia RTX 3080,24/04/2023,1.6
+PPB-DEV-001,PC Portable,v.arcouet,N/A,12/01/2022,2.9
+PPB-DEV-002,PC Portable,h.gamelin,N/A,12/01/2022,2.9
+PPB-DEV-003,PC Portable,b.aupry,N/A,12/01/2022,2.9
+PPB-DEV-004,PC Portable,e.navarro,N/A,24/04/2023,1.6
+SPA-DEV-001,Smartphone Android,j.champagne,N/A,04/01/2023,1.9
+SPA-DEV-002,Smartphone Android,j.baron,N/A,04/01/2023,1.9
+SPA-DEV-003,Smartphone Android,v.arcouet,N/A,04/01/2023,1.9
+SPA-DEV-004,Smartphone Android,e.navarro,N/A,04/01/2023,1.9
+SPI-DEV-001,Smartphone Iphone,m.monjeau,N/A,04/01/2023,1.9
+SPI-DEV-002,Smartphone Iphone,h.gamelin,N/A,04/01/2023,1.9
+BOX-SIT-001,Box WAN,N/A,N/A,17/02/2019,5.8
+SWS-SIT-001,Switch SIT (coeur),N/A,N/A,17/02/2019,5.8
+SWS-ADM-001,Switch bureaux administratifs,N/A,N/A,17/02/2019,5.8
+SWS-DEV-001,Switch bureau dev,N/A,N/A,17/02/2019,5.8
+SWS-GPH-001,Switch bureau graphiste,N/A,N/A,17/02/2019,5.8
+SWS-TST-001,Switch bureau testeurs + audio,N/A,N/A,17/02/2019,5.8
+FWL-SIT-001,Firewall principal + VPN (PFsense),N/A,N/A,17/02/2019,5.8
+SRV-INF-001,Serveur AD + Fichier,N/A,N/A,17/02/2019,5.8
+SRV-INF-002,Serveur backup,N/A,N/A,21/09/2017,7.2
